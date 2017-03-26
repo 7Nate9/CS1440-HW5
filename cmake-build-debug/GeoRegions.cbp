@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GeoRegions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GeoRegions">
+				<Option output="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/GeoRegions.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 GeoRegions"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GeoRegions/fast">
+				<Option output="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/GeoRegions.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 GeoRegions/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-6.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/City.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/City.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/County.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/County.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/CountyUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/CountyUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Menu.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Menu.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/MenuOption.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/MenuOption.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Nation.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Nation.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/NationUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/NationUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Region.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Region.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/State.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/State.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/StateUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/StateUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Testing/RegionTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Testing/RegionTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Testing/UtilsTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Testing/UtilsTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/UserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/UserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Utils.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/Utils.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/World.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/World.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/WorldUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/WorldUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/main.cpp">
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="C:/Users/Nate/Documents/CS1440Git/cs1440s17-shared/GeoRegions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
